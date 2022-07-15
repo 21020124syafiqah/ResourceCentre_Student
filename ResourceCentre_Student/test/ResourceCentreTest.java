@@ -85,7 +85,7 @@ public class ResourceCentreTest {
 		String allCamcorder= ResourceCentre.retrieveAllCamcorder(camcorderList);
 		String testOutput = "";
 		assertEquals("Check that ViewAllCamcorderlist", testOutput, allCamcorder);
-				
+				 
 		//Given an empty list, after adding 2 items, test if the size of the list is 2
 		ResourceCentre.addCamcorder(camcorderList, cc1);
 		ResourceCentre.addCamcorder(camcorderList, cc2);
@@ -103,7 +103,7 @@ public class ResourceCentreTest {
 	@Test
 	public void testRetrieveAllChromebook() {
 		//fail("Not yet implemented");
-		// write your code here
+		// write your code her
 	}
 
 	@Test
