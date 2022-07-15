@@ -15,6 +15,8 @@ private int opticalZoom;
 		String output = "";
 		// Write your codes here
 		
+		
+		
 		return output;
 	}
 }
