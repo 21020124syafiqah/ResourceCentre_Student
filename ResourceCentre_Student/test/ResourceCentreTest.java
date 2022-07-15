@@ -5,7 +5,8 @@ import java.util.ArrayList;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-// C206 AY2022 SEM1 - Eclipse 21-09 JDK16
+//hiiiiiiiiiiiiiiiiiiiiiiiiiiii C206 AY2022 SEM1 - Eclipse 21-09 JDK16
+//jhihhihihiihi
 public class ResourceCentreTest {
 	// prepare test data
 	private Camcorder cc1;
@@ -23,6 +24,7 @@ public class ResourceCentreTest {
 	}
 	
 	@Before
+	//WASSUPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
 	public void setUp() throws Exception {
 		// prepare test data
 		cc1 = new Camcorder("CC0011", "Nikon HDSLR", 40);
